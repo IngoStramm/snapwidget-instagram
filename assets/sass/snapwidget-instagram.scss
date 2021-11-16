@@ -1,0 +1,20 @@
+.insta-wrap {
+    position: relative;
+    display: block;
+    padding-bottom: 25%;
+    margin-bottom: 40px;
+    a {
+        display: inline-block;
+        z-index: 2;
+    }
+    iframe {
+        z-index: 1;
+        animation: InstaFadeIn ease 1.5s;
+    }
+    iframe,
+    a {
+        position: absolute;
+        width: 100% !important;
+        height: 100% !important;
+    }
+}

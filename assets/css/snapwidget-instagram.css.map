@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY,CACR,QAAQ,CAAE,QAAQ,CAClB,OAAO,CAAE,KAAK,CACd,cAAc,CAAE,GAAG,CACnB,aAAa,CAAE,IAAI,CACnB,aAAE,CACE,OAAO,CAAE,YAAY,CACrB,OAAO,CAAE,CAAC,CAEd,kBAAO,CACH,OAAO,CAAE,CAAC,CACV,SAAS,CAAE,qBAAqB,CAEpC,gCACE,CACE,QAAQ,CAAE,QAAQ,CAClB,KAAK,CAAE,eAAe,CACtB,MAAM,CAAE,eAAe",
+"sources": ["../sass/snapwidget-instagram.scss"],
+"names": [],
+"file": "snapwidget-instagram.css"
+}
